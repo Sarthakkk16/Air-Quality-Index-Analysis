@@ -5,6 +5,8 @@ This repository contains a complete workflow for Air Quality Index (AQI) forecas
 
 # Dataset - [AQI](https://archive.ics.uci.edu/dataset/360/air+quality)
 
+![](https://github.com/Sarthakkk16/Air-Quality-Index-Analysis/blob/main/range.png)
+
 # Project Highlights
 **1. Data Preprocessing**
 
