@@ -1,8 +1,10 @@
+![](https://github.com/Sarthakkk16/Air-Quality-Index-Analysis/blob/main/air-quality-index-aqi-measurement-600nw-2418628893.webp)
+
 # Air-Quality-Index-Analysis
 This repository contains a complete workflow for Air Quality Index (AQI) forecasting using Python.The project demonstrates advanced data preprocessing, exploratory analysis, and time-series modeling using Facebook Prophet.
 
 # Project Highlights
-1. Data Preprocessing
+**1. Data Preprocessing**
 
 Loaded raw AQI dataset using pandas
 
@@ -12,7 +14,7 @@ Converted them to NaN and imputed using column-wise mean
 
 Verified dataset integrity with EDA
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 
 Trend inspection
 
@@ -22,7 +24,7 @@ Missing data visualization
 
 Relationship checks between variables
 
-3. Time Series Forecasting
+**3. Time Series Forecasting**
 
 Implemented Facebook Prophet to forecast AQI:
 
@@ -34,7 +36,7 @@ Visualized future predictions
 
 Trend & seasonality components shown using Prophet plots
 
-4. Additional Workflows
+**4. Additional Workflows**
 
 Regression task setup for AQI prediction
 
